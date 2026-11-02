@@ -1,43 +1,105 @@
-# Hi there, I'm Harit Mengar! 👋
+<div align="center">
 
-Welcome to my GitHub profile! I’m a technology enthusiast with a deep interest in exploring new and innovative projects. Here’s a bit about me and what I’m passionate about:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e79,100:2ea8ff&height=190&section=header&text=Harit%20Mengar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Data%20%26%20Automation%20%7C%20Python%20Developer&descSize=18&descAlignY=60" alt="Harit Mengar banner" />
 
-## 👀 Interests
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2EA8FF&center=true&vCenter=true&width=640&lines=Building+explainable+ML+systems;Automating+data+pipelines+and+reporting;Shipping+Android+apps+and+web+projects;Open+to+remote+roles+%26+collaborations)](https://git.io/typing-svg)
 
-- **Artificial Intelligence (AI)**: I’m dedicated to leveraging AI to solve real-world problems and create groundbreaking applications. My focus includes developing algorithms and models that can make a difference in various industries.
-  
-- **Software Development**: I enjoy crafting elegant and efficient code to build robust systems and applications. My expertise spans multiple programming languages and development frameworks.
-  
-- **Cybersecurity**: Ensuring the safety and security of digital systems is crucial. I work on strategies to protect systems from threats and vulnerabilities, enhancing overall digital resilience.
-  
-- **Gaming**: I’m a fan of FPS games and love exploring new game mechanics and strategies. Gaming not only provides entertainment but also stimulates problem-solving and strategic thinking.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haritmengar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haritmengar12@outlook.com)
+![Location](https://img.shields.io/badge/Vadodara%2C%20India-1f4e79?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Profile views](https://komarev.com/ghpvc/?username=haritmanger15&style=for-the-badge&color=2ea8ff&label=PROFILE+VIEWS)
 
-- **Culinary Adventures**: Trying out diverse cuisines and cooking techniques is a passion of mine. I enjoy exploring different culinary traditions and experimenting with new recipes.
+</div>
 
-## 🌱 Currently Learning
+---
 
-- **Advanced Machine Learning**: I am delving deeper into complex machine learning algorithms and their applications, striving to enhance my understanding and skills in this rapidly evolving field.
+## 👋 About me
 
-- **Cloud Computing**: Learning about cloud services and their integration into modern tech stacks is a focus area. This includes understanding how to leverage cloud platforms for scalable and efficient solutions.
+I'm an AI/ML engineer and developer from Vadodara. Over the past two years I've built data pipelines, predictive models, Android apps and websites. I joined SK Infosoft as an intern and was promoted to Associate Developer within a year, and I hold an MCA in Machine Learning & AI.
 
-- **Full-Stack Development**: Expanding my skills in both front-end and back-end technologies to become proficient in developing complete web applications. This includes learning about frameworks, databases, and deployment strategies.
+I like turning messy, manual processes into reliable, repeatable ones, and I care about models people can actually understand and trust.
 
-## 💞️ Looking to Collaborate On
+## 🔭 What I work on
 
-- **Open Source Projects**: I am enthusiastic about contributing to and collaborating on innovative open source initiatives. Collaborating with the community helps drive progress and fosters creative solutions.
+| | |
+|---|---|
+| 🤖 **Machine learning** | Predictive models, computer vision, explainable AI with SHAP |
+| 🔄 **Data engineering** | ETL pipelines, automated reporting, Tableau dashboards |
+| 📱 **Applications** | Python backends, REST APIs, on-device Android apps |
+| 🎨 **Web and brand** | Websites and brand materials for small-business clients |
 
-- **AI and Machine Learning Projects**: I’m interested in working on projects that push the boundaries of AI technology, exploring new techniques, and developing advanced models.
+## 🛠️ Tech stack
 
-- **Travel Management Systems**: I am working on developing solutions to enhance travel experiences and streamline management processes. This includes creating systems that improve booking, tracking, and customer service.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## 📫 How to Reach Me
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-- **Email**: You can reach me at [haritmanger11@gmail.com](mailto:haritmanger11@gmail.com) for any inquiries, collaborations, or discussions.
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-- **LinkedIn**: Connect with me on [LinkedIn](https://www.linkedin.com/in/haritmengar) to view my professional background and network.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-- **GitHub**: Explore my repositories and projects on my [GitHub profile](https://github.com/haritmanger15). Feel free to check out my work and get in touch if you’re interested in any of the projects.
+## 🚀 Featured projects
 
-I’m always excited to connect with like-minded individuals, discuss projects, and explore new opportunities. Don’t hesitate to reach out if you have any questions or if you’d like to collaborate!
+| Project | What it does | Built with |
+|---|---|---|
+| **EV Battery Defect Detection** | Six-class classifier on 3,501 batteries, with SHAP explaining every prediction | Python, Scikit-learn, SHAP, PCA |
+| **Sleep Disorder Risk Classifier** | Benchmarked four models on 100,000 records; the best hit **94.92%** accuracy on held-out data | Python, Scikit-learn, Pandas |
+| **AI-Powered Audio Vision Assistant** | Accessibility-focused Android app giving audio feedback for real-time object recognition | Kotlin, TensorFlow Lite, Firebase, Cloud Vision API |
+| **Real-Time Object Detection System** | On-device detection and classification on Android | Kotlin, TensorFlow Lite, SQLite |
+| **Pedestrian Detection** | Faster R-CNN model trained on the PennFudanPed dataset | Python, deep learning |
+| **Interactive web projects** | Hindi-themed music player, Friendship Day word-search experience, binary calculator with saved history | HTML, CSS, JavaScript |
 
-Happy coding! 🚀
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=haritmanger15&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haritmanger15&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
+
+## 🌱 Currently learning
+
+- 🧠 Deep Learning & Neural Networks
+- 💬 Social Media & Text Analytics
+- 🏢 SAP solution design (Coursera SAP Technology Consultant certificate)
+- ☁️ Cloud computing and full-stack development
+
+## 🤝 Open to
+
+- Remote roles in ML, data, Python backend or automation
+- Open source contributions
+- AI and machine learning projects
+- Travel management systems, a side project around booking and tracking
+
+## 🎮 Outside of code
+
+FPS games and trying out new cuisines in the kitchen.
+
+---
+
+<div align="center">
+
+**Let's build something together.** Reach out on [LinkedIn](https://www.linkedin.com/in/haritmengar) or [email me](mailto:haritmengar12@outlook.com).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea8ff,100:1f4e79&height=100&section=footer" alt="footer" />
+
+</div>
