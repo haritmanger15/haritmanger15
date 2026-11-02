@@ -67,12 +67,13 @@ I like turning messy, manual processes into reliable, repeatable ones, and I car
 | **Pedestrian Detection** | Faster R-CNN model trained on the PennFudanPed dataset | Python, deep learning |
 | **Interactive web projects** | Hindi-themed music player, Friendship Day word-search experience, binary calculator with saved history | HTML, CSS, JavaScript |
 
-## 📊 GitHub stats
+## 📊 GitHub at a glance
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=haritmanger15&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haritmanger15&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+![Followers](https://img.shields.io/github/followers/haritmanger15?style=for-the-badge&logo=github&color=1f4e79)
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fharitmanger15&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=2ea8ff)
+![Joined](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fharitmanger15&query=%24.created_at&label=Joined&style=for-the-badge&logo=github&color=1f4e79)
 
 </div>
 
