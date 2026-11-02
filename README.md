@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e79,100:2ea8ff&height=190&section=header&text=Harit%20Mengar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Data%20%26%20Automation%20%7C%20Python%20Developer&descSize=18&descAlignY=60" alt="Harit Mengar banner" />
+<img src="banner.svg" alt="Harit Mengar banner" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2EA8FF&center=true&vCenter=true&width=640&lines=Building+explainable+ML+systems;Automating+data+pipelines+and+reporting;Shipping+Android+apps+and+web+projects;Open+to+remote+roles+%26+collaborations)](https://git.io/typing-svg)
 
@@ -77,6 +77,19 @@ I like turning messy, manual processes into reliable, repeatable ones, and I car
 
 </div>
 
+## ⚡ How I work
+
+![Builder](https://img.shields.io/badge/Mindset-Builder-1f4e79?style=for-the-badge)
+![Learner](https://img.shields.io/badge/Learns-Fast-2ea8ff?style=for-the-badge)
+![Clarity](https://img.shields.io/badge/Style-Clear%20%26%20Direct-1f4e79?style=for-the-badge)
+![Remote](https://img.shields.io/badge/Works-Remote%20%26%20Self--Directed-2ea8ff?style=for-the-badge)
+
+- 🛠️ **I build end to end.** I like taking an idea from the first brief to something people can use, whether that's a model, an app or a website.
+- 🚀 **I learn fast and own the result.** I went from intern to Associate Developer in a year by picking up new tools and delivering.
+- 🔍 **I want to know why.** I'd rather ship a model I can explain than one that just scores well.
+- 🎯 **I keep things simple and direct.** Small problems, clean code, clear communication.
+- 🌍 **I'm comfortable working remotely.** I manage my own time and work well with both technical and non-technical people.
+
 ## 🌱 Currently learning
 
 - 🧠 Deep Learning & Neural Networks
@@ -101,6 +114,6 @@ FPS games and trying out new cuisines in the kitchen.
 
 **Let's build something together.** Reach out on [LinkedIn](https://www.linkedin.com/in/haritmengar) or [email me](mailto:haritmengar12@outlook.com).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea8ff,100:1f4e79&height=100&section=footer" alt="footer" />
+<img src="footer.svg" alt="footer" width="100%" />
 
 </div>
